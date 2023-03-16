@@ -986,6 +986,7 @@ body {
 
 .sellItemBtn:hover {
   background-color: #0088e2;
+  cursor: pointer;
 }
 
 .resultPage {
